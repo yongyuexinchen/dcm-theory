@@ -15,8 +15,18 @@ The Death Constraint Model (DCM) addresses how **individuals** respond when deat
 
 ## Files
 
+### English (EN)
 - `Death_Constraint_Model_Hypothesis_Set_v1_EN.pdf` — Full hypothesis set (v1.0, English)
 - `Death_Constraint_Model_Hypothesis_Set_v1_EN.md` — Markdown source
+
+### 中文 (ZH)
+- `zh/死亡哲学系列_总览.md` — 系列总览（阅读地图）
+- `zh/死亡哲学_第1集_你所有的努力都是在逃避死亡.md`
+- `zh/死亡哲学_第2集_正常是一个谎言.md`
+- `zh/死亡哲学_第3集_为什么要惩罚不努力.md`
+- `zh/死亡哲学_第4集_逃逸的两种形态.md`
+- `zh/死亡哲学_第5集_为什么我们不敢要了.md`
+- `zh/死亡哲学_第6集_AI伴侣是新时代的永生工程吗.md`
 
 ## Hypotheses
 
