@@ -16,8 +16,9 @@ The Death Constraint Model (DCM) addresses how **individuals** respond when deat
 ## Files
 
 ### English (EN)
-- `Death_Constraint_Model_Hypothesis_Set_v1_EN.pdf` — Full hypothesis set (v1.0, English)
-- `Death_Constraint_Model_Hypothesis_Set_v1_EN.md` — Markdown source
+- `Death_Constraint_Model_Hypothesis_Set_v1.1_EN.md` — **latest (v1.1)**: sour grapes (Elster, 1983) and goal disengagement (Carver & Scheier, 1998) added as competing explanations with explicit incremental distinctions; falsification strengthened
+- `Death_Constraint_Model_Hypothesis_Set_v1_EN.md` — v1.0 (archived)
+- `Death_Constraint_Model_Hypothesis_Set_v1_EN.pdf` — PDF (v1.0; v1.1 PDF pending)
 
 ### 中文 (ZH)
 - `zh/死亡哲学系列_总览.md` — 系列总览（阅读地图）
